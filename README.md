@@ -12,7 +12,16 @@ Git conflict task.
 
 Instruction:
 
+Solving conflict:
+
 1. Read the merge conflic warning.
 2. "Merge" to fetch the confict and allow solving. "Rebase" rewrites the changes. "Fast-forward" discard the change and fetch the newer version.
 3. Set the config with --global to remember it and auto apply in the future.
-4. With "Merge", solve the conflict and push it.
+4. With "Merge", git pull and solve the conflict and push it.
+
+Using force pull or force push:
+
+- Do the pull first before coding to avoid the merge conflict.
+- Force push if the remote codes version is broken.
+- Force pull if the local codes version is broken.
+- Will overwrite the other codes.
