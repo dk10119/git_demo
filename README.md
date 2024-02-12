@@ -6,6 +6,6 @@ Git conflict task.
 4. Connect the 2 repos. done
 5. Make changes to the local repo then push. done
 6. Make changes to the remote repos
-7. Make changes to the local repo and push to remote
+7. Make changes to the local repo and push to remote. done
 8. Solve merge conflict
 9. Update readme file with instruction how to avoid merge conflict
