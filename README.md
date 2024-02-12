@@ -16,3 +16,5 @@ Instruction:
 2. "Merge" to fetch the confict and allow solving. "Rebase" rewrites the changes. "Fast-forward" discard the change and fetch the newer version.
 3. Set the config with --global to remember it and auto apply in the future.
 4. With "Merge", solve the conflict and push it.
+
+fast forward test (remote)
