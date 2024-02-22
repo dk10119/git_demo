@@ -24,4 +24,4 @@ Using force pull or force push:
 - Do the pull first before coding to avoid the merge conflict.
 - Force push if the remote codes version is broken.
 - Force pull if the local codes version is broken.
-- Will overwrite the other codes..
+- Will overwrite the other codes
