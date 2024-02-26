@@ -29,3 +29,7 @@ Using force pull or force push:
 Make new branch to work on:
 git checkout -b branch_name
 When push, refer the branch name
+
+Pull request:
+After commiting with any branch, a pull request will apear in github.
+Confirm the changes and merge the two branch. then delete the merged branch.
