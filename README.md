@@ -25,3 +25,6 @@ Using force pull or force push:
 - Force push if the remote codes version is broken.
 - Force pull if the local codes version is broken.
 - Will overwrite the other codes
+
+Make new branch to work on:
+git checkout -b banch_name
