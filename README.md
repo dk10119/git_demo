@@ -27,4 +27,4 @@ Using force pull or force push:
 - Will overwrite the other codes
 
 Make new branch to work on:
-git checkout -b banch_name
+git checkout -b branch_name
